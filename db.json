@@ -2,12 +2,12 @@
   "machines": [
     {
       "id": 1,
-      "serail":"AA500120"
+      "serail":"AA500120",
       "date": "05/07/2019"
     },
     {
       "id": 2,
-      "serail":"AA500121"
+      "serail":"AA500121",
       "date": "07/07/2019"
     }
   ]
